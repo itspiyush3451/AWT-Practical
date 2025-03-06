@@ -1,10 +1,10 @@
 # Advanced Web Technology Practicals
 
-Welcome to the Advanced Web Technology practical resource repository. This repository contains practical examples, exercises, and reference materials to help students learn and implement advanced web technologies.
+Welcome to the Advanced Web Technology practical resource repository. This repository contains practical examples and  exercises(only exercise no examples) materials to help students learn and implement advanced web technologies.
 
 ## Overview
 
-This repository serves as a comprehensive collection of practical materials for the Advanced Web Technology course.
+This repository serves as a comprehensive collection of practical materials for the Advanced Web Technology Subject.
 
 
 
@@ -23,16 +23,6 @@ This repository serves as a comprehensive collection of practical materials for 
 
 
 
-## Contributing
-
-Students are encouraged to contribute by:
-
-- Submitting bug fixes
-- Improving documentation
-- Adding alternative implementations
-- Sharing helpful resources
-
-Please follow the standard GitHub workflow (fork, branch, commit, pull request) when contributing.
 
 ## Setup Requirements
 
