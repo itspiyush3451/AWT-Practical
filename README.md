@@ -17,7 +17,7 @@ This repository serves as a comprehensive collection of practical materials for 
 
 2. Navigate to specific practical folders based on the topic you're studying
 
-3. Follow the instructions in each practical's README file
+3. Follow the instructions in practical's README file
 
 4. Experiment with the code and make modifications to deepen your understanding
 
