@@ -12,7 +12,7 @@ This repository serves as a comprehensive collection of practical materials for 
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/yourusername/advanced-web-technology.git
+   git clone https://github.com/itspiyush3451/AWT-Practical.git
    ```
 
 2. Navigate to specific practical folders based on the topic you're studying
